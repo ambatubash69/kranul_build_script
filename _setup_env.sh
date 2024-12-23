@@ -1,7 +1,4 @@
-#Google Git
-#Sign in
-#android / kernel / build / refs/heads/master-kernel-build-2021 / . / _setup_env.sh
-#blob: d7669e01f1911dec4dc3a7504bdfca83b04bb2e9 [file] [log] [blame] [edit]
+#!/bin/bash
 # Copyright (C) 2019 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -125,6 +122,3 @@ function check_defconfig() {
     return ${RES}
 }
 export -f check_defconfig
-#Powered by Gitiles| Privacy| Terms
-#txt
-#json
