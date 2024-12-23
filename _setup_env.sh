@@ -98,7 +98,7 @@ export KBUILD_BUILD_VERSION=1
   export HOSTLDFLAGS="$sysroot_flags $ldflags"
   export USERCFLAGS="--sysroot=/dev/null"
   
-PATH="/home/runner/work/gki-builder/gki-builder/android-kernel/build/build-tools/path/linux-x86:/home/runner/work/gki-builder/gki-builder/android-kernel/clang/bin:/home/runner/work/gki-builder/gki-builder/android-kernel/prebuilts/gas/linux-x86:/home/runner/work/gki-builder/gki-builder/android-kernel/out/android12-5.10/common/host_tools"
+PATH="/home/runner/work/gki-builder/gki-builder/android-kernel/build/build-tools/path/linux-x86:/home/runner/work/gki-builder/gki-builder/android-kernel/clang/bin:/home/runner/work/gki-builder/gki-builder/android-kernel/out/android12-5.10/common/host_tools"
 
 export PATH
 unset PYTHONPATH
